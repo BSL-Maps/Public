@@ -9,7 +9,7 @@ Wir legen großen Wert auf die Sicherheit unserer App und der Daten unserer Benu
 Wenn du eine Sicherheitslücke gefunden hast, folge bitte diesen Schritten:
 
 1. **Melde die Schwachstelle vertraulich:**  
-   Sende uns eine E-Mail an **security@bslmaps.com** mit den folgenden Informationen:
+   Sende uns eine E-Mail an **security@bsl-maps.com** mit den folgenden Informationen:
    - Eine detaillierte Beschreibung des Problems
    - Schritte, um die Sicherheitslücke zu reproduzieren
    - Mögliche Auswirkungen auf die Benutzer oder das System
@@ -32,6 +32,6 @@ Wir setzen verschiedene Maßnahmen ein, um die Sicherheit von **BSL Maps** zu ge
 
 ## Unterstützung und Feedback
 
-Dein Beitrag zur Verbesserung der Sicherheit von **BSL Maps** ist uns sehr wichtig. Wenn du Fragen zur Sicherheit unserer App hast oder uns Feedback geben möchtest, kontaktiere uns jederzeit über **security@bslmaps.com**.
+Dein Beitrag zur Verbesserung der Sicherheit von **BSL Maps** ist uns sehr wichtig. Wenn du Fragen zur Sicherheit unserer App hast oder uns Feedback geben möchtest, kontaktiere uns jederzeit über **security@bsl-maps.com**.
 
 ---
