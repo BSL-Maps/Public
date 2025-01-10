@@ -27,7 +27,6 @@ Dieses Projekt wurde im Rahmen unserer Ausbildung entwickelt, um den Alltag an d
 
 - **NFC**: Für die Standorterkennung über gescannte NFC-Tags. 📲
 - **QR-Codes**: Alternative Methode zur Standorterkennung. 📸
-- **React Native**: Zur plattformübergreifenden App-Entwicklung. ⚙️
 
 ---
 
